@@ -1,5 +1,6 @@
 // SCRIPTS DE ARRANQUE
 
+npm install = instalar dependencias
 npm run dev = iniciar nodemon para arranque
 npm run webpack = iniciar el escuchador para convertir el codigo de vue
 npm run build = convertir el codigo a JS, HTML, CSS en src/public/js/bundle.js para producción
